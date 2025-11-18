@@ -219,5 +219,3 @@ Projet réalisé par **Alex Alkhatib**, passionné par la vision par ordinateur 
 ## 📄 Licence
 MIT License
 Copyright (c) 2025 Alex Alkhatib
-
-Souhaites-tu l’un de ces bonus ?
